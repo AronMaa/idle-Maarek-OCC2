@@ -88,7 +88,7 @@ See also the list of contributors on https://github.com/AronMaa/idle-Maarek-OCC2
 
 ## License
 
-This project is licensed under the MIT License, see the LICENSE.md file for details.
+This project is licensed under the MIT License, see the LICENSE file for details.
 
 ## Acknowledgments
 
