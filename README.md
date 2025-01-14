@@ -1,2 +1,2 @@
-# project-Maarek-OCC2
+# idle-Maarek-OCC2
 later
