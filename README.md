@@ -3,25 +3,23 @@ A simple idle game in the CLI with basic functionalities in the theme of pigs.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them:
+To install the software, you will need:
 
 ```
 - Python 3.9 or higher
-- Git (to clone the repository)
+- Git
 ```
 
 ### Installing
 
-A step-by-step series of examples to set up the development environment:
-
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/idle-Maarek-OCC2.git
+git clone https://github.com/AronMaa/idle-Maarek-OCC2.git
 cd idle-Maarek-OCC2
 ```
 
@@ -41,12 +39,10 @@ pip install -r requirements.txt
 4. Run the application:
 
 ```
-python main.py
+python idle_pig.py
 ```
 
-## Running the tests
-
-Explain how to run the automated tests for this system.
+## Running the tests (Not implemented)
 
 ### Break down into end-to-end tests
 
@@ -68,38 +64,32 @@ flake8 .
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system:
-
-1. Package the application (if needed).
-2. Upload the package to a server or a cloud service.
-3. Configure the environment and run the main executable.
+Configure the environment and run the main executable.
 
 ## Built With
 
-* [Python](https://www.python.org/) - Programming Language
-* [pytest](https://pytest.org/) - Testing Framework
-* [Click](https://click.palletsprojects.com/) - Command-line Interface Library
+* Python - Programming Language
+* pytest (https://pytest.org/) - Testing Framework (in the future)
+* Click (https://click.palletsprojects.com/) - Command-line Interface Library (in the future)
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/yourusername/idle-Maarek-OCC2/tags).
+We use SemVer for versioning. For the versions available, see the tags on this repository (https://github.com/AronMaa/idle-Maarek-OCC2/tags).
 
 ## Authors
 
-* **Maarek** - *Initial work* - [Maarek's GitHub](https://github.com/yourusername)
+* **Aron Maarek** - *Initial work* - (https://github.com/AronMaa)
 
-See also the list of [contributors](https://github.com/yourusername/idle-Maarek-OCC2/contributors) who participated in this project.
+See also the list of contributors on https://github.com/AronMaa/idle-Maarek-OCC2/contributors).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License, see the LICENSE.md file for details.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration from idle games genre
-* Special thanks to collaborators and testers
+* Thanks to Rebecca for the idea
